@@ -4,7 +4,7 @@ import Logo  from '../images/logo.svg';
 
 function AboutUs() {
   return (
-    <div id="Members" className="AboutUs">
+    <div id="home" className="AboutUs">
       <div class="container-fluid my-5 text-center">
         <div className="card card-container flex-row">
           <div className="col-lg-3 d-flex align-items-center">
