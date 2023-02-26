@@ -4,6 +4,7 @@ import Links from './components/Links'
 import AboutUs from './components/AboutUs';
 import Members from './components/Members';
 import Membership from './components/Membership';
+import TasksDone from './components/TasksDone';
 
 function App() {
   return (
@@ -15,6 +16,9 @@ function App() {
       <Members />
       <hr class="hr" />
       <Membership />
+      <hr class="hr" />
+      <TasksDone />
+      <hr class="hr" />
       <Links />
     </div>
   );
