@@ -15,6 +15,12 @@ function Navbar () {
               <a className="nav-link " aria-current="page" href='#Members'>Miembros</a>
             </li>
             <li className="nav-item">
+              <a className="nav-link " aria-current="page" href='#Memberships'>Membresias</a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link " aria-current="page" href='#Tasks'>Tareas</a>
+            </li>
+            <li className="nav-item">
               <a className="nav-link " aria-current="page" href='#Contact'>Contactanos</a>
             </li>
           </ul>

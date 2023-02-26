@@ -3,7 +3,7 @@ import '../stylesheets/TasksDone.css';
 
 function TasksDone () {
   return(
-    <div className="tasksDone">
+    <div className="tasksDone" id="Tasks">
       <h2>Principales Tareas realizadas en material de Riesgos de Transporte – H&M & Cargo:</h2>
       <ul>
         <li><p>Relevamientos y Ajustes de Siniestros de Transporte (marítimo, aéreo, terrestre y fluvial).</p></li>
