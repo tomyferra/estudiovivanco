@@ -1,6 +1,6 @@
 .App{
-  background-color: #15202b !important;
-  color: white; /* All Text is white */
+  background-color: none !important;
+  color: black; /* All Text is white */
   height: 100vh;
 }
 
@@ -14,4 +14,9 @@ html, body {
 
 .padding-below-Navbar{
   padding: 30px;
+  background-color: #bab8b8;
+}
+
+.waveSeparator{
+  border: none;
 }

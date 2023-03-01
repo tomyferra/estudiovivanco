@@ -1,4 +1,5 @@
 import React from "react";
+
 import '../stylesheets/Navbar.css'
 
 function Navbar () {
@@ -9,7 +10,7 @@ function Navbar () {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbar-toggler">
-        <a className="navbar-brand" href="#home"><img className="navbar-brand" src={require('../images/logo2.png')} alt="Logo Estudio Vivanco"></img></a>
+        <a className="navbar-brand" href="#home"><img className="navbar-brand" src={require('../images/logo3.png')} alt="Logo Estudio Vivanco"></img></a>
           <ul className="navbar-nav d-flex justify-content-center align-items-center">
             <li className="nav-item">
               <a className="nav-link " aria-current="page" href='#Members'>Miembros</a>
