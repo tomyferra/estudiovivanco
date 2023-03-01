@@ -12,7 +12,7 @@ function App() {
       <Navbar />
       <div className="padding-below-Navbar"></div>
       <AboutUs />
-      {/* <div className="waveSeparator">
+      <div className="waveSeparator">
         <Wave fill='#3795BD'
           paused={false}
           options={{
@@ -20,10 +20,9 @@ function App() {
             amplitude: 30,
             speed: 0.15,
             points: 5
-          }}
-        />
-      </div> */}
-      <hr class="hr" />
+          }} />
+      </div>
+      {/* <hr class="hr" /> */}
       <Members />
       <hr class="hr" />
       <Membership />
