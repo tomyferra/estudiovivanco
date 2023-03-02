@@ -22,13 +22,19 @@ function App() {
             points: 5
           }} />
       </div>
-      {/* <hr class="hr" /> */}
       <Members />
-      <hr class="hr" />
+      <div className="waveSeparator">
+        <Wave fill='white'
+          paused={false}
+          options={{
+            height: 30,
+            amplitude: 30,
+            speed: 0.15,
+            points: 5
+          }} />
+      </div>
       <Membership />
-      <hr class="hr" />
       <TasksDone />
-      <hr class="hr" />
       <Links />
     </div>
   );
