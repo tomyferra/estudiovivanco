@@ -1,3 +1,26 @@
 .Memberships{
   padding: 20px;
+  background-color: #eef1f1;
+}
+.membership-container{
+  color: black;
+  padding: 40px;
+}  
+
+.Membership{
+  color: white;
+  margin: 20px;
+  text-decoration: none;
+}
+.skill-style{
+  margin: 10px 0 10px 0 !important;
+}
+
+.card-body{
+  padding: 10px 10px 10px 10px !important;
+  background-color: #404040 !important;
+}
+
+.card-body:hover{
+ background-color: #3795BD !important;
 }

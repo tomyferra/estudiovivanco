@@ -2,6 +2,7 @@
   background-color: none !important;
   color: black; /* All Text is white */
   height: 100vh;
+  font-family: Helvetica, sans-serif !important;
 }
 
 html, body { 

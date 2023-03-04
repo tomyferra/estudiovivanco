@@ -3,7 +3,7 @@ import Navbar from './components/Navbar'
 import Links from './components/Links'
 import AboutUs from './components/AboutUs';
 import Members from './components/Members';
-import Membership from './components/Membership';
+import Memberships from './components/Memberships';
 import TasksDone from './components/TasksDone';
 import Wave from 'react-wavify'
 function App() {
@@ -24,7 +24,7 @@ function App() {
       </div>
       <Members />
       <div className="waveSeparator">
-        <Wave fill='white'
+        <Wave fill='#eef1f1'
           paused={false}
           options={{
             height: 30,
@@ -33,8 +33,8 @@ function App() {
             points: 5
           }} />
       </div>
-      <Membership />
       <TasksDone />
+      <Memberships />
       <Links />
     </div>
   );
