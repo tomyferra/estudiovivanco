@@ -12,6 +12,7 @@ function Links () {
             <Linksto classText="bi bi-envelope" url="mailto:vivanco@infovia.com.ar" Text="Email"/>
             <Linksto classText="bi bi-building" url="https://goo.gl/maps/7BCE5kQ4vREqHekM7" Text="Maipú 26 Piso 10º (C1084AAB) Buenos Aires - Argentina"/>
             <Linksto classText="bi bi-whatsapp" url="https://wa.me/5491154700070" Text="Whatsapp"/>
+            <p className="copyright-text"><i class="bi bi-c-circle"></i> Estudio Vivanco</p>
           </div>
         </div>
       </div>

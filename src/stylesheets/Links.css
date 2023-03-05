@@ -1,17 +1,18 @@
 .links-container{
-  padding: 10px;
-  background-color: #eef1f1;
+  padding: 40px 10px 40px 10px;
+  background-color: #404040;
+
 }
 
 .social-media{
-  border: 2px solid black;
+  border: 2px solid white;
   border-radius: 5px;
   padding: 10px;
 }
 
 .social-media-links{
   text-decoration: none;
-  color: black;
+  color: white;
   
 }
 
@@ -22,3 +23,8 @@ text-decoration: underline;
   margin: 10px 0 10px 0;
 }
 
+
+.copyright-text{
+  padding-top: 10px;
+  color: white;
+}

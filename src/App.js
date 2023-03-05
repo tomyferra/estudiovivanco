@@ -1,11 +1,14 @@
 import './App.css';
-import Navbar from './components/Navbar'
-import Links from './components/Links'
+import Navbar from './components/Navbar';
+import Links from './components/Links';
 import AboutUs from './components/AboutUs';
 import Members from './components/Members';
 import Memberships from './components/Memberships';
 import TasksDone from './components/TasksDone';
-import Wave from 'react-wavify'
+import Wave from 'react-wavify';
+import { FloatingWhatsApp } from 'react-floating-whatsapp';
+import Logo from './images/Logo4.png';
+
 function App() {
   return (
     <div className="App">

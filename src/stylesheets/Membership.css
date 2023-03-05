@@ -18,9 +18,10 @@
 
 .card-body{
   padding: 10px 10px 10px 10px !important;
-  background-color: #404040 !important;
+  background-color: #3795BD !important;
+  
 }
 
 .card-body:hover{
- background-color: #3795BD !important;
+ background-color: #404040 !important;
 }
