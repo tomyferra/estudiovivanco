@@ -27,4 +27,5 @@ text-decoration: underline;
 .copyright-text{
   padding-top: 10px;
   color: white;
+  margin: -10px;
 }
