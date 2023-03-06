@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/estudiovivanco/static/css/main.28199f97.css",
+    "main.css": "/estudiovivanco/static/css/main.efab2e82.css",
     "main.js": "/estudiovivanco/static/js/main.8a67009f.js",
-    "static/media/landingPicture.jpeg": "/estudiovivanco/static/media/landingPicture.c0d0c8c52806c058d426.jpeg",
+    "static/media/landingPicture2.jpg": "/estudiovivanco/static/media/landingPicture2.538abc3864bf081386c3.jpg",
     "static/media/EzequielVivanco.png": "/estudiovivanco/static/media/EzequielVivanco.b3f0bec7ac2e490c4c32.png",
     "static/media/LogoNegro.png": "/estudiovivanco/static/media/LogoNegro.99d8f3f3d7b666df6df4.png",
     "static/media/EstebanVivanco.png": "/estudiovivanco/static/media/EstebanVivanco.4c809c2332cd7cbf1840.png",
     "static/media/Logo4.png": "/estudiovivanco/static/media/Logo4.b0e0c8f4be1bb2eb4331.png",
     "index.html": "/estudiovivanco/index.html",
-    "main.28199f97.css.map": "/estudiovivanco/static/css/main.28199f97.css.map",
+    "main.efab2e82.css.map": "/estudiovivanco/static/css/main.efab2e82.css.map",
     "main.8a67009f.js.map": "/estudiovivanco/static/js/main.8a67009f.js.map"
   },
   "entrypoints": [
-    "static/css/main.28199f97.css",
+    "static/css/main.efab2e82.css",
     "static/js/main.8a67009f.js"
   ]
 }
