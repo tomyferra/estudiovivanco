@@ -1,7 +1,7 @@
 import '../stylesheets/Members.css';
 import Member from '../images/Avatar.png';
-import Esteban from '../images/EstebanVivanco.png';
-import Ezequiel from '../images/EzequielVivanco.png';
+import Esteban from '../images/EstebanVivanco.webp';
+import Ezequiel from '../images/EzequielVivanco.webp';
 
 function Members() {
   return (

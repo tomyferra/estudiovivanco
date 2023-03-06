@@ -1,6 +1,6 @@
 .AboutUs{
   color: white;
-  background: linear-gradient(to bottom, rgba(99, 99, 99, 0.55), rgba(99,99,99, 0.55)), url("../images//landingPicture2.jpg") no-repeat center;
+  background: linear-gradient(to bottom, rgba(99, 99, 99, 0.55), rgba(99,99,99, 0.55)), url("../images//landingPicture2.webp") no-repeat center;
   background-size: cover;
   display: flex;
   padding: 50px 0 50px 0;
