@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/estudiovivanco/static/css/main.efab2e82.css",
-    "main.js": "/estudiovivanco/static/js/main.8a67009f.js",
-    "static/media/landingPicture2.jpg": "/estudiovivanco/static/media/landingPicture2.538abc3864bf081386c3.jpg",
-    "static/media/EzequielVivanco.png": "/estudiovivanco/static/media/EzequielVivanco.b3f0bec7ac2e490c4c32.png",
+    "main.css": "/estudiovivanco/static/css/main.c12a9026.css",
+    "main.js": "/estudiovivanco/static/js/main.aec9b21a.js",
+    "static/media/landingPicture2.webp": "/estudiovivanco/static/media/landingPicture2.983e94c1e5510befc68b.webp",
     "static/media/LogoNegro.png": "/estudiovivanco/static/media/LogoNegro.99d8f3f3d7b666df6df4.png",
-    "static/media/EstebanVivanco.png": "/estudiovivanco/static/media/EstebanVivanco.4c809c2332cd7cbf1840.png",
+    "static/media/EzequielVivanco.webp": "/estudiovivanco/static/media/EzequielVivanco.ae1b94698501a74278f5.webp",
     "static/media/Logo4.png": "/estudiovivanco/static/media/Logo4.b0e0c8f4be1bb2eb4331.png",
+    "static/media/EstebanVivanco.webp": "/estudiovivanco/static/media/EstebanVivanco.2c820f7fa41ff43f8e10.webp",
     "index.html": "/estudiovivanco/index.html",
-    "main.efab2e82.css.map": "/estudiovivanco/static/css/main.efab2e82.css.map",
-    "main.8a67009f.js.map": "/estudiovivanco/static/js/main.8a67009f.js.map"
+    "main.c12a9026.css.map": "/estudiovivanco/static/css/main.c12a9026.css.map",
+    "main.aec9b21a.js.map": "/estudiovivanco/static/js/main.aec9b21a.js.map"
   },
   "entrypoints": [
-    "static/css/main.efab2e82.css",
-    "static/js/main.8a67009f.js"
+    "static/css/main.c12a9026.css",
+    "static/js/main.aec9b21a.js"
   ]
 }
