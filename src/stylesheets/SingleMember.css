@@ -1,0 +1,14 @@
+.singleMember{
+  margin: 20px;
+}
+
+.card{
+  background-color: rgb(224, 224, 224);
+}
+
+.paddingName{
+  padding: 20px;
+}
+.singleMemberCard{
+  box-shadow: 5px 5px 8px #000;
+}

@@ -12,6 +12,9 @@
 .navbar-item{
   color: white !important;
 }
+.nav-item{
+  padding: 0 10px 0 10px;
+}
 
 .navbar-collapse{
   align-items: center;

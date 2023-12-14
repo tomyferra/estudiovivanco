@@ -49,8 +49,8 @@ function Members() {
               </div>
               <div class="col-lg-8 d-flex flex-column align-items-center justify-content-center">
                 <h4>Ezequiel Vivanco</h4>
-                <p class="text-justify">descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... </p>
-                <p className="text-justify">descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... descripcion... </p>
+                <p class="text-justify">Ezequiel se unió al Estudio de su familia luego de graduarse como Marina Mercante en el año 2011. </p>
+                <p className="text-justify">Desde ese entonces hasta ahora se convirtió en la mano derecha de Esteban, solucionando averias con clientes nacionales e internacionales, formando parte de congresos internacionales representando al Estudio. </p>
               </div>
             </div>
           </div>
